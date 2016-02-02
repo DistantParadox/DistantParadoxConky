@@ -1,2 +1,1 @@
 # DistantParadoxConky
-# DistantParadoxConky
